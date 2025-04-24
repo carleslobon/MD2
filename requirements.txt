@@ -1,0 +1,12 @@
+# Core libraries
+numpy
+pandas
+scikit-learn
+scipy
+
+# Visualization
+matplotlib
+seaborn
+
+# Optional: Jupyter for notebooks
+jupyterlab
