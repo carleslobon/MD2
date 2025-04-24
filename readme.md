@@ -1,6 +1,6 @@
 # Data Mining Project
 
-This repository contains the code and analysis for a data mining project completed as part of a university course. The goal of the project is to preprocess, analyze, and model data to extract meaningful patterns and insights.
+This repository contains the code and analysis for a data mining project completed as part of a university course. The goal of the project is to XXXXXXXX.
 
 ## Project Structure
 ```
@@ -14,25 +14,14 @@ project/
 ## Requirements
 
 - Python 3.8 or higher
-- `pip` or `conda` for package management
-
-### Setting up a virtual environment
-
-**Using conda:**
-
-conda create -n datamining python=3.9 conda activate datamining pip install -r requirements.txt
-
-
-**Using virtualenv:**
-
-python -m venv venv source venv/bin/activate # On Windows use: venv\Scripts\activate pip install -r requirements.txt
-
+- `pip` for package management
 
 ## Running the Project
 
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/datamining-project.git cd datamining-project
+git clone https://github.com/your-username/datamining-project.git 
+cd datamining-project
 ```
 
 2. Install dependencies:
@@ -45,7 +34,7 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-4. Navigate to the `notebooks/` directory and open `preprocessing.ipynb` to begin working with the data.
+4. Navigate to the `preprocessing/` directory and open `preprocessing.ipynb` to begin working with the data.
 
 ## Dataset
 
